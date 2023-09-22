@@ -1,0 +1,151 @@
+#topblock
+{
+width:100%;
+height:70px;
+background-color:black;
+}
+
+#topblock ul
+{
+float:left;
+margin-top:20px;
+}
+
+#topblock ul li
+{
+clear:left;
+color:white;
+font-family:sans-serif;
+display:inline;
+margin-right:20px;
+text-decoration:none;
+}
+
+#topblock ul li a
+{
+color:white;
+font-family:sans-serif;
+display:inline;
+
+text-decoration:none;
+}
+
+#topblock ul li a:hover
+{
+text-decoration:underline;
+}
+
+#topblock ol
+{
+float:right;
+margin-bottom:20px;
+}
+
+#topblock ol li
+{
+clear:right;
+display:inline;
+
+}
+
+#topblock ol li a
+{
+clear:right;
+color:white;
+font-family:sans-serif;
+text-decoration:none;
+margin-right:20px;
+margin-bottom:20px;
+}
+
+#topblock ol li a:hover
+{
+text-decoration:underline;
+}
+
+#para
+{
+text-indent:100px;
+color:grey;
+font-family:sans-serif;
+}
+#graph
+{
+text-indent :100px;
+color:grey;
+font-size:20px;
+font-family:sans-serif;
+}
+
+
+.second
+{
+float:left;
+height:700px;
+width:72%;
+background-color:white;
+
+}
+
+.third
+{
+float:right;
+height:700px;
+width:25%;
+background-color:white;
+
+}
+
+.third form
+{
+clear:both;
+font-family:sans-serif;
+}
+
+.third form input
+{
+color:light black;
+}
+.decoration
+{
+color:black;
+border-style:solid;
+border-color:grey;
+border-radius:10px;
+border-width:0.5px;
+}
+span
+{
+color:black
+font-family:sans-serif;
+float:right;
+margin:20px;
+background-color:grey;
+padding:5px;
+}
+.fchange
+{
+clear:right;
+color:black;
+font-size:20px;
+font-family:sans-serif;
+}
+.fchange a 
+{
+color:black;
+text-decoration:none;
+}
+.fchange a:hover
+{
+color:green;
+}
+
+.schange
+{
+color:grey;
+}
+
+.head
+{
+margin:0px auto;
+}
